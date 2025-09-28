@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋!</h1>
-<h3 align="center">ET-E9 HUST-er</h3>
+<h3 align="center">I'm a ET-E9 HUST-er</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsthngg&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="tsthngg" /></p>
 
