@@ -2,7 +2,6 @@
 <p align="center">I'm <i>Hưng</i>, a <b>Smart Embedded System & IoT</b> alumnus from <a href="https://hust.edu.vn/"><b><i>Hanoi University of Science and Technology</i></b></a> - <b>Vietnam</b></p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tsthngg&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tsthngg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
