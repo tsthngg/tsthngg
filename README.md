@@ -31,7 +31,7 @@
 <ul>
   <li>Vietnamese</li>
   <li>English</li>
-  <li>Japanese <i>(Learning)</i></li>
+  <li>Japanese</li>
 </ul>
 </p>
 </div>
